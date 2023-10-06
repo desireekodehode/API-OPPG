@@ -1,0 +1,42 @@
+body {
+  background-color: #A76B56;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  font-family: "Reem Kufi Ink", sans-serif;
+
+  font-size: 5rem;
+  color: 0202020;
+}
+
+.card {
+  width: 300px;
+  border: 5px dotted #7E8071;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0, 2);
+  padding: 30px;
+  padding-bottom: 50px;
+  margin: 10px;
+  background-color:#7E8071 ;
+  border-radius: 20px;
+}
+
+p {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-size: 5rem;
+}
+button {
+  background-color: #7E8071;
+  border: 5px dotted #ccc;
+  border-radius: 20px;
+}
+
+
+
+button:hover {
+  background-color: #A76B56
+}
