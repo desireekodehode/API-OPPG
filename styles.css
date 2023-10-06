@@ -40,3 +40,9 @@ button {
 button:hover {
   background-color: #A76B56
 }
+
+@media only screen and (max-width: 768px) {
+  .card {
+    width: 100%;
+  }
+}
